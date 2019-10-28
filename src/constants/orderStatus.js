@@ -1,0 +1,7 @@
+const ORDER_STATUS = {
+    WAITING: "WAITING",
+    ASSIGNED: "ASSIGNED",
+    PICKED_UP: "PICKED_UP",
+    DELIVERED: "DELIVERED"
+};
+export default ORDER_STATUS;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Assign Assign Order Component should render initial layout 1`] = `
+Array [
+  <Context.Consumer>
+    [Function]
+  </Context.Consumer>,
+]
+`;
+
+exports[`BikerDashboard Biker Dashboard Component should render initial layout 1`] = `
+Array [
+  <Context.Consumer>
+    [Function]
+  </Context.Consumer>,
+]
+`;
+
+exports[`Dashboard Manager Dashboard Component should render initial layout 1`] = `
+Array [
+  <Context.Consumer>
+    [Function]
+  </Context.Consumer>,
+]
+`;
+
+exports[`Dashboard should render initial layout 1`] = `
+Array [
+  <Context.Consumer>
+    [Function]
+  </Context.Consumer>,
+]
+`;
+
+exports[`OrderPopUp Update Order Component should render initial layout 1`] = `
+Array [
+  <Context.Consumer>
+    [Function]
+  </Context.Consumer>,
+]
+`;
